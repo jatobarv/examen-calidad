@@ -1,0 +1,36 @@
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\bin\Debug\AppTaller.exe.config
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\bin\Debug\AppTaller.exe
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\bin\Debug\AppTaller.pdb
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\bin\Debug\LibreriaTaller.dll
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\bin\Debug\LibreriaTaller.pdb
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\MainWindow.g.cs
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\App.g.cs
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller_MarkupCompile.cache
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller_MarkupCompile.lref
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\MainWindow.baml
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.g.resources
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.csproj.CopyComplete
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.exe
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.pdb
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\bin\Debug\AppTaller.exe.config
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\bin\Debug\AppTaller.exe
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\bin\Debug\AppTaller.pdb
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\bin\Debug\LibreriaTaller.dll
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\bin\Debug\LibreriaTaller.pdb
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\MainWindow.g.cs
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\App.g.cs
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller_MarkupCompile.cache
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller_MarkupCompile.lref
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\MainWindow.baml
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.g.resources
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.Properties.Resources.resources
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.csproj.GenerateResource.cache
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.csproj.CopyComplete
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.exe
+C:\Users\javie\Desktop\ProyectoTurismo\AppTaller\obj\Debug\AppTaller.pdb

@@ -1,0 +1,12 @@
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\LibreriaTurismo\bin\Debug\LibreriaTaller.dll
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\LibreriaTurismo\bin\Debug\LibreriaTaller.pdb
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\LibreriaTurismo\obj\Debug\LibreriaTurismo.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\LibreriaTurismo\obj\Debug\LibreriaTurismo.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\LibreriaTurismo\obj\Debug\LibreriaTaller.dll
+C:\Users\diego\OneDrive\Documentos\SEMESTRE 2-2018\Examen Calidad\ProyectoTurismo\LibreriaTurismo\obj\Debug\LibreriaTaller.pdb
+C:\Users\javie\Desktop\ProyectoTurismo\LibreriaTurismo\bin\Debug\LibreriaTaller.dll
+C:\Users\javie\Desktop\ProyectoTurismo\LibreriaTurismo\bin\Debug\LibreriaTaller.pdb
+C:\Users\javie\Desktop\ProyectoTurismo\LibreriaTurismo\obj\Debug\LibreriaTurismo.csprojAssemblyReference.cache
+C:\Users\javie\Desktop\ProyectoTurismo\LibreriaTurismo\obj\Debug\LibreriaTurismo.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\ProyectoTurismo\LibreriaTurismo\obj\Debug\LibreriaTaller.dll
+C:\Users\javie\Desktop\ProyectoTurismo\LibreriaTurismo\obj\Debug\LibreriaTaller.pdb
